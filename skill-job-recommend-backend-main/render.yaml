@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: job-backend
+    env: node
+    region: frankfurt
+    buildCommand: "npm install"
+    startCommand: "node server.js"
