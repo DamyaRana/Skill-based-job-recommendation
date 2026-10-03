@@ -1,0 +1,1 @@
+A skill-based job recommendation system that helps users identify suitable job opportunities based on their skills. The project analyzes the user's skill set and recommends relevant job roles, making it easier to explore career opportunities aligned with their abilities.
